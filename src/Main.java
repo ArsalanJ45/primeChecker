@@ -21,5 +21,6 @@ public class Main {
             if (num % i == 0) return false; // Found a divisor
         }
         return true; // No divisors found, it's prime
+        //
     }
 }
